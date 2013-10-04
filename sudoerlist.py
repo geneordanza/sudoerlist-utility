@@ -4,6 +4,8 @@ NAME: sudoerlist.py
 DESC: This programs display a list of users who have sudo access
 LAST REV: 25th Jan 2013
 AUTHOR: Gene Ordanza <geronimo.ordanza@fisglobal.com>
+NOTE: Need to re-write this in shell (preferrably in ksh) and port to Solaris
+      and AIX. (20131004)
 """
 
 import socket
